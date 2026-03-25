@@ -42,6 +42,17 @@ llm-engineering/
 | 4 | [Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | 1小时，免费，专项强化 | 3、6 |
 | 5 | [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | 选读，了解趋势即可 | 4 |
 
+## 环境配置
+
+**一键创建 mamba 环境（Python 3.11）**
+
+```bash
+mamba env create -f environment.yml
+mamba activate llm-eng
+pip install -r requirements.txt
+```
+
+
 ## 验收项目
 
 - **项目一**：文档问答 RAG 系统（验收子目标1、2、3、5）
