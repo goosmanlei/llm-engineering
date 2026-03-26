@@ -18,6 +18,12 @@ jupyter
 notebook
 ipykernel
 
+# Data science
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4
+
 # Utilities
 python-dotenv>=1.0
 tiktoken>=0.6

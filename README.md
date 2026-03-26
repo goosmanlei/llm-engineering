@@ -35,7 +35,7 @@ llm-engineering/
 
 | # | 资源 | 说明 | 对应子目标 |
 |---|------|------|-----------|
-| 前置 | [Embeddings - OpenAI Platform](https://platform.openai.com/docs/guides/embeddings) | 约30分钟，为 RAG 做概念铺垫 | — |
+| 前置 | [Embeddings - OpenAI Platform](https://platform.openai.com/docs/guides/embeddings) | 约30分钟，只读主页面概念部分，不跑 Use cases notebook；相关 notebook 在子目标3阶段按需参考 | — |
 | 1 | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | 1小时，免费 | 1、2 |
 | 2 | [Full Stack LLM Bootcamp - UC Berkeley](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) | 视野型课程，重点学安全、成本、UX、产品化思路 | — |
 | 3 | [Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) | LCEL 现代语法，系统学习 | 3、4、5 |
