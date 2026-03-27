@@ -12,3 +12,12 @@
 - zero-shot / few-shot prompting
 - Chain-of-Thought（CoT）提示
 - 结构化输出控制
+
+## 小结
+
+ChatGPT Prompt用途：
+- 摘要
+- 推理
+- 转换
+- 扩写
+- 聊天机器人

@@ -28,3 +28,5 @@ scikit-learn>=1.4
 python-dotenv>=1.0
 tiktoken>=0.6
 tqdm>=4.66
+redlines>=0.4
+panel>=1.3
