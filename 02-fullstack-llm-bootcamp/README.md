@@ -1,6 +1,6 @@
 # Full Stack LLM Bootcamp
 
-**资源**：[UC Berkeley - YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
+**资源**：[Full Stack Deep Learning - YouTube Playlist](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ)
 
 **定位**：视野型课程（2023年内容，部分技术细节已过时），技术实现以后续课程为准。
 
