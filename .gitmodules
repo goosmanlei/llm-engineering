@@ -1,3 +1,6 @@
 [submodule "02-fullstack-llm-bootcamp/ask-fsdl"]
 	path = 02-fullstack-llm-bootcamp/ask-fsdl
 	url = https://github.com/goosmanlei/ask-fsdl
+[submodule "03-langchain/lca-lc-foundation"]
+	path = 03-langchain/lca-lc-foundation
+	url = git@github.com:goosmanlei/lca-lc-foundations.git
