@@ -21,10 +21,14 @@
 llm-engineering/
 ├── 00-prereading/              # 前置阅读：Embeddings 概念
 ├── 01-prompt-engineering/      # ChatGPT Prompt Engineering for Developers
-├── 02-fullstack-llm-bootcamp/  # Full Stack LLM Bootcamp (UC Berkeley)
+├── 02-fullstack-llm-bootcamp/  # Full Stack LLM Bootcamp
 ├── 03-langchain/               # Introduction to LangChain - Python
-├── 04-advanced-rag/            # Building and Evaluating Advanced RAG
-├── 05-context-engineering/     # Effective Context Engineering for AI Agents（选读）
+├── 04-intro-langgraph/         # Introduction to LangGraph - Python
+├── 05-deep-agents/             # Project: Deep Agents with LangGraph
+├── 06-deep-research/           # Project: Deep Research with LangGraph
+├── 07-ambient-agents/          # Project: Ambient Agents with LangGraph
+├── 08-advanced-rag/            # Building and Evaluating Advanced RAG
+├── 09-context-engineering/     # Effective Context Engineering（选读）
 └── projects/                   # 验收项目
     ├── 01-doc-qa-rag/          # 项目一：文档问答 RAG 系统
     ├── 02-research-agent/      # 项目二：带工具调用的研究助手 Agent
@@ -37,10 +41,14 @@ llm-engineering/
 |---|------|------|-----------|
 | 前置 | [Embeddings - OpenAI Platform](https://platform.openai.com/docs/guides/embeddings) | 约30分钟，只读主页面概念部分，不跑 Use cases notebook；相关 notebook 在子目标3阶段按需参考 | — |
 | 1 | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | 1小时，免费 | 1、2 |
-| 2 | [Full Stack LLM Bootcamp - UC Berkeley](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) | 视野型课程，重点学安全、成本、UX、产品化思路 | — |
+| 2 | [Full Stack LLM Bootcamp - Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) | 视野型课程，重点学安全、成本、UX、产品化思路 | — |
 | 3 | [Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) | LCEL 现代语法，系统学习 | 3、4、5 |
-| 4 | [Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | 1小时，免费，专项强化 | 3、6 |
-| 5 | [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | 选读，了解趋势即可 | 4 |
+| 4 | [Introduction to LangGraph - Python](https://academy.langchain.com/courses/intro-to-langgraph) | LangGraph 核心基础：State、Node、Edge、Graph | 4、5 |
+| 5 | [Project: Deep Agents with LangGraph](https://academy.langchain.com/courses/deep-agents-with-langgraph) | 构建单 Agent + Tool 执行图，理解 state 管理与 loop / planning | 4、5 |
+| 6 | [Project: Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph) | Agent 叠加 RAG + 多步推理，复杂任务分解 | 3、4 |
+| 7 | [Project: Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents) | 长生命周期 Agent、事件驱动、持续上下文管理 | 4 |
+| 8 | [Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | 1小时，免费，专项强化 RAG 构建与评估 | 3、6 |
+| 9 | [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | 选读，了解趋势即可 | 4 |
 
 ## 环境配置
 
