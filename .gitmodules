@@ -4,3 +4,6 @@
 [submodule "03-langchain/lca-lc-foundation"]
 	path = 03-langchain/lca-lc-foundation
 	url = git@github.com:goosmanlei/lca-lc-foundations.git
+[submodule "04-intro-langgraph/langchain-academy"]
+	path = 04-intro-langgraph/langchain-academy
+	url = git@github.com:goosmanlei/langchain-academy.git
