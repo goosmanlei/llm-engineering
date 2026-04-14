@@ -24,11 +24,12 @@ llm-engineering/
 ├── 02-fullstack-llm-bootcamp/  # Full Stack LLM Bootcamp
 ├── 03-langchain/               # Introduction to LangChain - Python
 ├── 04-intro-langgraph/         # Introduction to LangGraph - Python
-├── 05-deep-agents/             # Project: Deep Agents with LangGraph
-├── 06-deep-research/           # Project: Deep Research with LangGraph
-├── 07-ambient-agents/          # Project: Ambient Agents with LangGraph
-├── 08-advanced-rag/            # Building and Evaluating Advanced RAG
-├── 09-context-engineering/     # Effective Context Engineering（选读）
+├── 05-intro-langsmith/         # Introduction to LangSmith
+├── 06-deep-agents/             # Project: Deep Agents with LangGraph
+├── 07-deep-research/           # Project: Deep Research with LangGraph
+├── 08-ambient-agents/          # Project: Ambient Agents with LangGraph
+├── 09-advanced-rag/            # Building and Evaluating Advanced RAG
+├── 10-context-engineering/     # Effective Context Engineering（选读）
 └── projects/                   # 验收项目
     ├── 01-doc-qa-rag/          # 项目一：文档问答 RAG 系统
     ├── 02-research-agent/      # 项目二：带工具调用的研究助手 Agent
@@ -44,11 +45,12 @@ llm-engineering/
 | 2 | [Full Stack LLM Bootcamp - Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) | 视野型课程，重点学安全、成本、UX、产品化思路 | — |
 | 3 | [Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) | LCEL 现代语法，系统学习 | 3、4、5 |
 | 4 | [Introduction to LangGraph - Python](https://academy.langchain.com/courses/intro-to-langgraph) | LangGraph 核心基础：State、Node、Edge、Graph | 4、5 |
-| 5 | [Project: Deep Agents with LangGraph](https://academy.langchain.com/courses/deep-agents-with-langgraph) | 构建单 Agent + Tool 执行图，理解 state 管理与 loop / planning | 4、5 |
-| 6 | [Project: Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph) | Agent 叠加 RAG + 多步推理，复杂任务分解 | 3、4 |
-| 7 | [Project: Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents) | 长生命周期 Agent、事件驱动、持续上下文管理 | 4 |
-| 8 | [Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | 1小时，免费，专项强化 RAG 构建与评估 | 3、6 |
-| 9 | [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | 选读，了解趋势即可 | 4 |
+| 5 | [Introduction to LangSmith](https://academy.langchain.com/courses/intro-to-langsmith) | LLM 应用的追踪、调试与评估，建立可观测性 | 5、6 |
+| 6 | [Project: Deep Agents with LangGraph](https://academy.langchain.com/courses/deep-agents-with-langgraph) | 构建单 Agent + Tool 执行图，理解 state 管理与 loop / planning | 4、5 |
+| 7 | [Project: Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph) | Agent 叠加 RAG + 多步推理，复杂任务分解 | 3、4 |
+| 8 | [Project: Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents) | 长生命周期 Agent、事件驱动、持续上下文管理 | 4 |
+| 9 | [Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | 1小时，免费，专项强化 RAG 构建与评估 | 3、6 |
+| 10 | [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | 选读，了解趋势即可 | 4 |
 
 ## 环境配置
 
