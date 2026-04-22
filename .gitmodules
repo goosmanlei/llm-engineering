@@ -7,3 +7,6 @@
 [submodule "04-intro-langgraph/langchain-academy"]
 	path = 04-intro-langgraph/langchain-academy
 	url = git@github.com:goosmanlei/langchain-academy.git
+[submodule "05-intro-langsmith"]
+	path = 05-intro-langsmith
+	url = git@github.com:goosmanlei/intro-to-langsmith.git
